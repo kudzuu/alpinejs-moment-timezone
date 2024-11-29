@@ -12,7 +12,7 @@ An Alpine JS **Moment  Plugin** lets you programmatically monitor changes to the
 ### Via CDN
 ```html
 <!-- Alpine Plugins -->
-<script src="https://unpkg.com/@kudzu/alpinejs-moment-timezone@1.0.0/dist/moment.min.js" defer></script>
+<script src="https://unpkg.com/@kudzu/alpinejs-moment-timezone@1.x.x/dist/moment.min.js" defer></script>
 <!-- Alpine Core -->
 <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 ```
